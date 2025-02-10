@@ -57,7 +57,7 @@
       "version_requirement": "3.x"
     }
   ],
-  "name": "uchiwa",
+  "name": "puppet-uchiwa",
   "version": "1.0.1",
   "author": "yelp",
   "summary": "Puppet module for installing Uchiwa",
