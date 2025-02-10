@@ -57,19 +57,19 @@
       "version_requirement": "3.x"
     }
   ],
-  "name": "yelp-uchiwa",
-  "version": "2.1.1",
+  "name": "uchiwa",
+  "version": "1.0.1",
   "author": "yelp",
   "summary": "Puppet module for installing Uchiwa",
   "license": "Apache 2.0",
-  "source": "github.com/yelp/puppet-uchiwa",
-  "project_page": "https://github.com/yelp/puppet-uchiwa",
-  "issues_url": "https://github.com/yelp/puppet-uchiwa/issues",
+  "source": "github.com/opentable/puppet-uchiwa",
+  "project_page": "https://github.com/opentable/puppet-uchiwa",
+  "issues_url": "https://github.com/opentable/puppet-uchiwaissues",
   "description": "Puppet module for installing Uchiwa",
   "dependencies": [
     {
       "name": "puppetlabs/apt",
-      "version_requirement": ">=2.0.0 <5.0.1"
+      "version_requirement": ">= 9.2.0, < 10.0.0"
     },
     {
       "name": "puppetlabs/stdlib"
