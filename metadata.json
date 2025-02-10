@@ -64,7 +64,7 @@
   "license": "Apache 2.0",
   "source": "github.com/opentable/puppet-uchiwa",
   "project_page": "https://github.com/opentable/puppet-uchiwa",
-  "issues_url": "https://github.com/opentable/puppet-uchiwaissues",
+  "issues_url": "https://github.com/opentable/puppet-uchiwa/issues",
   "description": "Puppet module for installing Uchiwa",
   "dependencies": [
     {
